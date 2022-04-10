@@ -1,0 +1,11 @@
+{
+  "LOGFILE":"XXX.log", // BTC.log
+  "apiKey":"", // api-key
+  "secret":"", // api-secret
+  "sub_account":"",
+  "symbol":"XXX", // BTC/USD, BTC-PERP, BTC-0624 or anything
+  "grid_level":100,
+  "upper_price":3.6,
+  "lower_price":1.8,
+  "amount":30 // amount per grid
+}
